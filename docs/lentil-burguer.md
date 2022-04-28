@@ -22,4 +22,4 @@
 
 ## Remarks and references
 
-Thanks to our friend ... for suggesting this recipe.
+Thanks to our friend Luana for suggesting this recipe.
