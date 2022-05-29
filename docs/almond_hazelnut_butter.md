@@ -15,7 +15,7 @@ Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile 
 
 ## Instructions
 
-1. pre-heat the oven at 175oC
+1. pre-heat the oven at 175 °C.
 1. put on a baking tray SEPARATE almond one side / hazelnut on the other (the separation will help peeling hazelnuts later).
 1. inspect the almods for shells, if you spot remove them.
 1. roast for 12 min (MAX more than that was not good) next time.
