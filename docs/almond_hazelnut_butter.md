@@ -17,10 +17,8 @@ Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile 
 
 1. clean the almonds with water; dry them; and inspect for shells in a baking tray, if you spot any remove them.
 1. pre-heat the oven at 175 °C.
-
-   ```{image} img/almond_hazelnut_butter_tray.jpg
-
-   ```
+    
+    ![baking tray](img/almond_hazelnut_butter_tray.jpg)
 1. in the same baking tray, put the hazelnuts on a separate side (the separation will help peeling hazelnuts later).
 1. roast for 12 min (MAX more than that was not good) next time.
 1. cool for 5 min and transfer to a kitchen towel.
@@ -29,7 +27,7 @@ Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile 
 
 ## Remarks and references
 
-Referemces:
+References:
 
 [https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/](https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/)
 [https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/](https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/)
