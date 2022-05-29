@@ -7,9 +7,9 @@
 
 ## Instructions
 
-1. Instruction 1
-1. Instruction 2
-1. Instruction 3
+1. Instruction 1.
+1. Instruction 2.
+1. Instruction 3.
 
 ## Remarks and references
 
