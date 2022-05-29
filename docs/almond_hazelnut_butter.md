@@ -29,7 +29,7 @@ Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile 
 
 References:
 
-[https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/](https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/)
-[https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/](https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/)
-[https://thehealthyfoodie.com/toasted-almond-hazelnut-butter/](https://thehealthyfoodie.com/toasted-almond-hazelnut-butter/)
-[https://spoonuniversity.com/recipe/how-to-make-almond-hazelnut-butter-better-than-nutella](https://spoonuniversity.com/recipe/how-to-make-almond-hazelnut-butter-better-than-nutella)
+* [https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/](https://www.ambitiouskitchen.com/chai-spiced-almond-hazelnut-butter-recipe/)
+* [https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/](https://www.justins.com/products/chocolate-hazelnut-and-almond-butter/)
+* [https://thehealthyfoodie.com/toasted-almond-hazelnut-butter/](https://thehealthyfoodie.com/toasted-almond-hazelnut-butter/)
+* [https://spoonuniversity.com/recipe/how-to-make-almond-hazelnut-butter-better-than-nutella](https://spoonuniversity.com/recipe/how-to-make-almond-hazelnut-butter-better-than-nutella)
