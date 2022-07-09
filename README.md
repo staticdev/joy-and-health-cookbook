@@ -5,7 +5,7 @@ Open-source recipes:
 * [Almond-hazelnut butter](docs/almond_hazelnut_butter.md)
 * [Chococonut cake](docs/chococonut_cake.md)
 * [Lentil burguer](docs/lentil_burguer.md)
-* [Pão de queijo](docs/pao_de_queijo.md)
+* [Brazillian's Pão de queijo](docs/pao_de_queijo.md)
 
 Feel free to contribute with a pull request.
 
