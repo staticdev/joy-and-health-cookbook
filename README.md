@@ -6,6 +6,7 @@ Open-source recipes:
 * [Brazilian's pão de queijo](docs/pao_de_queijo.md)
 * [Chococonut cake](docs/chococonut_cake.md)
 * [Lentil burguer](docs/lentil_burguer.md)
+* [Tiramisu](docs/tiramisu.md)
 
 Feel free to contribute with a pull request.
 
