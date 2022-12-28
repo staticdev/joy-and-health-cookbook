@@ -8,7 +8,7 @@ Per person:
 * 1 cup of Tapioca flour
 * 1 table spoon of Parmigiano-Reggiano (also works with Grana or vegan Parmigiano)
 * 1/2 egg (optional)
-* 35% heavy cream (if you are using an egg you can use water instead)
+* 30-35% heavy cream (if you are using an egg you can use water instead)
 * Oregano
 * Salt
 
