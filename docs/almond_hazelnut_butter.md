@@ -23,7 +23,7 @@ Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile 
 1. roast for 12 min (MAX more than that was not good) next time.
 1. cool for 5 min and transfer to a kitchen towel.
 1. remove skins of hazelnuts - or 80% at least.
-1. put the nuts in a food processor / you will need a spatula to stop and mix.
+1. put the ingredients and nuts in a food processor and mix for for some minutes / you can stop and use a spatula to not overheat your processor.
 
 ## Remarks and references
 

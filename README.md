@@ -8,6 +8,10 @@ Open-source recipes:
 * [Lentil burguer](docs/lentil_burguer.md)
 * [Tiramisu](docs/tiramisu.md)
 
+Tips:
+
+* [Raclette](docs/tips/raclette.md)
+
 Feel free to contribute with a pull request.
 
 ## License
