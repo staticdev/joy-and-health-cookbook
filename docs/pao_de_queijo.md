@@ -4,13 +4,13 @@
 
 Per person:
 
-* 1 cup of Gouda cheese (or vegan Gouda)
-* 1 cup of Tapioca flour
-* 1 tbsp of Parmigiano-Reggiano (also works with Grana or vegan Parmigiano)
-* 1/2 egg (optional)
-* 30-35% heavy cream (if you are using an egg you can use water instead)
-* Oregano
-* Salt
+- 1 cup of Gouda cheese (or vegan Gouda)
+- 1 cup of Tapioca flour
+- 1 tbsp of Parmigiano-Reggiano (also works with Grana or vegan Parmigiano)
+- 1/2 egg (optional)
+- 30-35% heavy cream (if you are using an egg you can use water instead)
+- Oregano
+- Salt
 
 ## Instructions
 

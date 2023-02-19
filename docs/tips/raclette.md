@@ -3,18 +3,20 @@
 ## Shopping list
 
 Suggestions:
-* Raclette cheese
-* Potato organic
-* Aubergine
-* Courgette
-* Red/yellow/green bell pepper
-* Aspargus or brocoliaspargus
-* Vegetarian sausages
-* Picled vegetables
-* Butter/ghee if no food that releases fat
+
+- Raclette cheese
+- Potato organic
+- Aubergine
+- Courgette
+- Red/yellow/green bell pepper
+- Aspargus or brocoliaspargus
+- Vegetarian sausages
+- Picled vegetables
+- Butter/ghee if no food that releases fat
 
 For drink:
-* Red wine
+
+- Red wine
 
 ## Preparation
 

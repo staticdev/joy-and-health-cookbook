@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-* 1 cup almond flour
-* 3 tbsp coconut flour
-* 1 egg, lightly beaten
-* 1 tbsp water
-* 2 tsp xanthan gum
-* 2 tsp apple cider vinegar or lime juice
-* 1 tsp baking powder
-* 1/4 tsp kosher salt
+- 1 cup almond flour
+- 3 tbsp coconut flour
+- 1 egg, lightly beaten
+- 1 tbsp water
+- 2 tsp xanthan gum
+- 2 tsp apple cider vinegar or lime juice
+- 1 tsp baking powder
+- 1/4 tsp kosher salt
 
 ## Instructions
 
@@ -24,7 +24,8 @@
 ## Remarks and references
 
 Original instructions from:
-* [https://www.gnom-gnom.com/grain-free-keto-tortillas/](https://www.gnom-gnom.com/grain-free-keto-tortillas/)]
-* [https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/](https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/)
 
-Note: **very important** when cooking, coconut flour burns rather rapidly. So while this does help you to get the traditional charred marks of flour tortillas, you do need to keep an eye out for them to keep them from burning. Having said that, you do want your skillet to be very hot in order for the tortillas to cook quickly (in under a minute) and stay pliable. Like any tortilla, if the heat is not high enough it will harden and crack. 
+- [https://www.gnom-gnom.com/grain-free-keto-tortillas/](https://www.gnom-gnom.com/grain-free-keto-tortillas/)]
+- [https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/](https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/)
+
+Note: **very important** when cooking, coconut flour burns rather rapidly. So while this does help you to get the traditional charred marks of flour tortillas, you do need to keep an eye out for them to keep them from burning. Having said that, you do want your skillet to be very hot in order for the tortillas to cook quickly (in under a minute) and stay pliable. Like any tortilla, if the heat is not high enough it will harden and crack.

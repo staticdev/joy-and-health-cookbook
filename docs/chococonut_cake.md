@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-* 4 eggs
-* 1/2 cup of coconut flour
-* 1/2 cup of coconut milk
-* 1/2 cup of xylitol (or erythritol)
-* 1 tbsp of baking powder
-* 4 tbsp of cacao powder 100%
+- 4 eggs
+- 1/2 cup of coconut flour
+- 1/2 cup of coconut milk
+- 1/2 cup of xylitol (or erythritol)
+- 1 tbsp of baking powder
+- 4 tbsp of cacao powder 100%
 
 ## Instructions
 

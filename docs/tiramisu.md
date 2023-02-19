@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-* 2 eggs
-* 2 tbsp of sugar/erythritol
-* 400-450g mascarpone
-* 1 package of Savoiardi / Champanhe cookies
-* Coffee
-* Amaretto liqueur
-* Small amount chocolate in bar or cocoa powder
+- 2 eggs
+- 2 tbsp of sugar/erythritol
+- 400-450g mascarpone
+- 1 package of Savoiardi / Champanhe cookies
+- Coffee
+- Amaretto liqueur
+- Small amount chocolate in bar or cocoa powder
 
 ## Instructions
 
@@ -28,5 +28,5 @@
 
 References:
 
-* [https://www.youtube.com/watch?v=HykFyrhuyMk](https://www.youtube.com/watch?v=HykFyrhuyMk)
-* [https://www.youtube.com/watch?v=oNFSAmRAxiA](https://www.youtube.com/watch?v=oNFSAmRAxiA)
+- [https://www.youtube.com/watch?v=HykFyrhuyMk](https://www.youtube.com/watch?v=HykFyrhuyMk)
+- [https://www.youtube.com/watch?v=oNFSAmRAxiA](https://www.youtube.com/watch?v=oNFSAmRAxiA)

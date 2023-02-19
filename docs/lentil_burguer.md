@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-* 300g lentil
-* 200g flour (amandel, oat, linseed)
-* 50ml shoyu
-* 1/2 onion
-* 1/2 sprig parsley
-* 1 tbsp cumin
-* 1 tbsp ginger
-* 1 tsp of mustard
+- 300g lentil
+- 200g flour (amandel, oat, linseed)
+- 50ml shoyu
+- 1/2 onion
+- 1/2 sprig parsley
+- 1 tbsp cumin
+- 1 tbsp ginger
+- 1 tsp of mustard
 
 ## Instructions
 
@@ -27,6 +27,6 @@ Thanks to our friend Luana for suggesting this recipe.
 
 References:
 
-* [Kumar, Vikas, et al] "Dietary roles of phytate and phytase in human nutrition: A review." Food chemistry 120.4 (2010): 945-959.
- 
-[Kumar, Vikas, et al]: https://www.researchgate.net/profile/Vikas-Kumar-64/publication/260795031_Dietary_roles_of_fiber_on_the_clinical_health_of_gastrointestinal_tract_of_humans/links/00b7d5325fbf55b89a000000/Dietary-roles-of-fiber-on-the-clinical-health-of-gastrointestinal-tract-of-humans.pdf
+- [Kumar, Vikas, et al] "Dietary roles of phytate and phytase in human nutrition: A review." Food chemistry 120.4 (2010): 945-959.
+
+[kumar, vikas, et al]: https://www.researchgate.net/profile/Vikas-Kumar-64/publication/260795031_Dietary_roles_of_fiber_on_the_clinical_health_of_gastrointestinal_tract_of_humans/links/00b7d5325fbf55b89a000000/Dietary-roles-of-fiber-on-the-clinical-health-of-gastrointestinal-tract-of-humans.pdf

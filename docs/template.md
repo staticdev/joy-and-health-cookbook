@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-* 300g ingredient 1
-* 1/2 tbsp ingredient 2
+- 300g ingredient 1
+- 1/2 tbsp ingredient 2
 
 ## Instructions
 
