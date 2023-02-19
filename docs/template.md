@@ -3,7 +3,7 @@
 ## Ingredients
 
 * 300g ingredient 1
-* 1/2 ingredient 2
+* 1/2 tablespoon ingredient 2
 
 ## Instructions
 
