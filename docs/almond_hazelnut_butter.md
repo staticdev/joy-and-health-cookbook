@@ -4,10 +4,10 @@
 
 * 250g / 2 cups raw unsalted almonds
 * 250g / 2 cups raw unsalted hazelnuts
-* 2 tablespoons coconut oil
-* 2 teaspoons organic cocoa powder
-* Optional 1/2 teaspoons cinnamon - we used 1 tsp and was too much
-* Optional 1/4 teaspoons sea salt - we didn't use
+* 2 tbsp coconut oil
+* 2 tsp organic cocoa powder
+* Optional 1/2 tsp cinnamon - we used 1 tsp and was too much
+* Optional 1/4 tsp sea salt - we didn't use
 * Optional vanilla drops / beans - we use some drops
 
 Note: mixing baked almonds with a bit of  raw almonds can enhace flavor profile where toasted nuts taste smokier, nuttier, whereas raw nuts tend to be a little bit more on the sweet side. So try to mix things up a little to achieve the desired flavor and consistency (https://thehealthyfoodie.com/toasted-almond-hazelnut-butter/). Eg.: use 50% almonds raw and 50% toasted

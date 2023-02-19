@@ -3,24 +3,23 @@
 ## Ingredients
 
 * 1 cup almond flour
-* 3 tablespoons coconut flour
-* 1 egg lightly beaten
-* 1 tablespoon water
-* 2 teaspoons xanthan gum
-* 2 teaspoons apple cider vinegar or lime juice
-* 1 teaspoon baking powder
-* 1/4 teaspoon kosher salt
+* 3 tbsp coconut flour
+* 1 egg, lightly beaten
+* 1 tbsp water
+* 2 tsp xanthan gum
+* 2 tsp apple cider vinegar or lime juice
+* 1 tsp baking powder
+* 1/4 tsp kosher salt
 
 ## Instructions
 
-1. Add almond flour, coconut flour, xanthan gum, baking powder and salt to food processor. Pulse until thoroughly combined. Note: you can alternatively whisk everything in a large bowl and use a hand or stand mixer for the following steps. 
-1. Pour in apple cider vinegar with the food processor running. Once it has distributed evenly, pour in the egg. Followed by the water. Stop the food processor once the dough forms into a ball. The dough will be sticky to touch.
-1. Wrap dough in cling film and knead it through the plastic for a minute or two. Think of it a bit like a stress ball. Allow dough to rest for 10 minutes (and up to three days in the fridge). 
-Heat up a skillet (preferably) or pan over medium heat. You can test the heat by sprinkling a few water droplets, if the drops evaporate immediately your pan is too hot. The droplets should ‘run’ through the skillet.
-1. Break the dough into eight 1" balls (26g each). Roll out between two sheets of parchment or waxed paper with a rolling pin or using a tortilla press (easier!) until each round is 5-inches in diameter. 
-1. Transfer to skillet and cook over medium heat for just 3-6 seconds (very important). Flip it over immediately (using a thin spatula or knife), and continue to cook until just lightly golden on each side (though with the traditional charred marks), 30 to 40 seconds. The key is not to overcook them, as they will no longer be pliable or puff up.
-1. Keep them warm wrapped in kitchen cloth until serving. To rewarm, heat briefly on both sides, until just warm (less than a minute).
-1. These tortillas are best eaten straight away. But feel free to keep some dough handy in your fridge for up to three days, and they also freeze well for up to three months.
+1. In a food processor, combine almond flour, coconut flour, xanthan gum, baking powder, and salt. Pulse until thoroughly combined.
+1. With the food processor running, pour in apple cider vinegar, followed by the egg, and then the water. Stop the food processor once the dough forms into a ball. The dough will be sticky to touch.
+1. Wrap the dough in cling film and knead it for a minute or two through the plastic. Allow the dough to rest for 10 minutes (or up to three days in the fridge).
+1. Heat up a skillet or pan over medium heat. Break the dough into eight 1" balls (26g each) and roll out between two sheets of parchment or waxed paper until each round is 5-inches in diameter.
+1. Transfer the tortillas to the skillet and cook over medium heat for just 3-6 seconds. Flip them over immediately and continue to cook until just lightly golden on each side, 30 to 40 seconds. Don't overcook them, as they will no longer be pliable or puff up.
+1. Keep the tortillas warm wrapped in a kitchen cloth until serving. To rewarm, heat briefly on both sides, until just warm (less than a minute).
+1. These tortillas are best eaten straight away, but you can store the dough in the fridge for up to three days or freeze the tortillas for up to three months.
 
 ## Remarks and references
 

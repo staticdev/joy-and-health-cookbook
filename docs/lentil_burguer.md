@@ -3,13 +3,13 @@
 ## Ingredients
 
 * 300g lentil
-* 1/2 onion
-* 1 tea spoon of mustard
 * 200g flour (amandel, oat, linseed)
-* 1/2 sprig parsley
-* 1 table spoon cumin
-* 1 table spoon ginger
 * 50ml shoyu
+* 1/2 onion
+* 1/2 sprig parsley
+* 1 tbsp cumin
+* 1 tbsp ginger
+* 1 tsp of mustard
 
 ## Instructions
 
