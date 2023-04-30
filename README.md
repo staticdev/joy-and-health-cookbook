@@ -9,6 +9,11 @@ Open-source recipes:
 - [Lentil burguer](docs/lentil_burguer.md)
 - [Tiramisu](docs/tiramisu.md)
 
+Cocktails/drinks:
+
+- [Bonbon Sonho de Valsa (waltz dream) cocktail](docs/drinks/bonbon_waltz_dream_cocktail.md)
+- [Electric Smurf](docs/drinks/electric_smurf.md)
+
 Tips:
 
 - [Raclette](docs/tips/raclette.md)
