@@ -7,6 +7,7 @@ Open-source recipes:
 - [Chococonut cake](docs/chococonut_cake.md)
 - [Keto tortilla](docs/keto_tortilla.md)
 - [Lentil burguer](docs/lentil_burguer.md)
+- [Squirrel's carrot cake](docs/squirrels_carrot_cake.md)
 - [Tiramisu](docs/tiramisu.md)
 
 Cocktails/drinks:
