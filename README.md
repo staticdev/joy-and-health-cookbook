@@ -8,12 +8,14 @@ Open-source recipes:
 - [Keto tortilla](docs/keto_tortilla.md)
 - [Lentil burguer](docs/lentil_burguer.md)
 - [Squirrel's carrot cake](docs/squirrels_carrot_cake.md)
+- [Taco toppings](docs/taco_toppings.md)
 - [Tiramisu](docs/tiramisu.md)
 
 Cocktails/drinks:
 
 - [Bonbon Sonho de Valsa (waltz dream) cocktail](docs/drinks/bonbon_waltz_dream_cocktail.md)
 - [Electric Smurf](docs/drinks/electric_smurf.md)
+- [Mojito](docs/drinks/mojito.md)
 
 Tips:
 
