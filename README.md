@@ -11,6 +11,10 @@ Open-source recipes:
 - [Taco toppings](docs/taco_toppings.md)
 - [Tiramisu](docs/tiramisu.md)
 
+Sauces:
+
+- [Pesto alla genovese](docs/pesto_alla_genovese.md)
+
 Cocktails/drinks:
 
 - [Bonbon Sonho de Valsa (waltz dream) cocktail](docs/drinks/bonbon_waltz_dream_cocktail.md)
