@@ -21,11 +21,13 @@
 1. Keep the tortillas warm wrapped in a kitchen cloth until serving. To rewarm, heat briefly on both sides, until just warm (less than a minute).
 1. These tortillas are best eaten straight away, but you can store the dough in the fridge for up to three days or freeze the tortillas for up to three months.
 
+Note: you can eat it with [taco toppings](taco_toppings.md).
+
 ## Remarks and references
 
 Original instructions from:
 
-- [https://www.gnom-gnom.com/grain-free-keto-tortillas/](https://www.gnom-gnom.com/grain-free-keto-tortillas/)]
+- [https://www.gnom-gnom.com/grain-free-keto-tortillas/](https://www.gnom-gnom.com/grain-free-keto-tortillas/)
 - [https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/](https://www.delish.com/cooking/recipe-ideas/a25647730/keto-tortilla-recipe/)
 
 Note: **very important** when cooking, coconut flour burns rather rapidly. So while this does help you to get the traditional charred marks of flour tortillas, you do need to keep an eye out for them to keep them from burning. Having said that, you do want your skillet to be very hot in order for the tortillas to cook quickly (in under a minute) and stay pliable. Like any tortilla, if the heat is not high enough it will harden and crack.
