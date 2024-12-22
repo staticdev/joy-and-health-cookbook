@@ -23,8 +23,10 @@ Seasoning:
 Cocktails/drinks:
 
 - [Bonbon Sonho de Valsa (waltz dream) cocktail](docs/drinks/bonbon_waltz_dream_cocktail.md)
+- [Cuba libre](docs/drinks/cuba_libre.md)
 - [Electric Smurf](docs/drinks/electric_smurf.md)
 - [Mojito](docs/drinks/mojito.md)
+- [Piña colada](docs/drinks/pina_colada.md)
 
 Tips:
 

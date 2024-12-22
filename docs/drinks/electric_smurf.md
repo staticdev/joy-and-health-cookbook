@@ -14,7 +14,8 @@
 1. Fill the glass with ice.
 1. Pour half a shot of curacau blue, then half shot of malibu.
 1. Pour one shot of pineapple juice and top up with one shot of soda.
-1. Make it beautiful with some fruit in the border.
+
+Garnish: make it beautiful with some fruit in the border.
 
 ## Remarks and references
 
