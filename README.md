@@ -16,6 +16,10 @@ Sauces:
 
 - [Pesto alla genovese](docs/pesto_alla_genovese.md)
 
+Seasoning:
+
+- [Saltgarlic / "Salho"](docs/saltgarlic.md)
+
 Cocktails/drinks:
 
 - [Bonbon Sonho de Valsa (waltz dream) cocktail](docs/drinks/bonbon_waltz_dream_cocktail.md)
