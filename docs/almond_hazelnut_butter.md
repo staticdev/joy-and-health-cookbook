@@ -26,6 +26,25 @@ Note: mixing baked almonds with a bit of raw almonds can enhace flavor profile w
 1. remove skins of hazelnuts - or 80% at least.
 1. put the ingredients and nuts in a food processor and mix for for some minutes / you can stop and use a spatula to not overheat your processor.
 
+## Yield of a recipe
+
+| **Item**                    | **kcal** | **Carb (g)** | **Fat (g)** | **Protein (g)** |
+|-----------------------------|----------|--------------|-------------|-----------------|
+| **250g Roasted Almonds (Unsalted)** | 1495     | 52.5         | 131.3       | 52.4            |
+| **250g Roasted Hazelnuts (Unsalted)** | 1607     | 44.6         | 160.7       | 35.7            |
+| **2 tbsp Coconut Oil**      | 243      | 0            | 27          | 0               |
+| **2 tbsp Cacao**            | 25       | 5            | 2           | 2               |
+| **Total (540g)**            | 3370     | 102.1        | 321         | 90.1            |
+
+## Nutrition Facts
+
+| **Nutrient**            | **Per 100g** | **Per 1 Tbsp (17g)** |
+|-------------------------|--------------|----------------------|
+| **Calories**             | 624 kcal     | 106 kcal              |
+| **Total Fat**            | 59.4g          | 10.1g                 |
+| **Total Carbohydrate**   | 18.9g          | 3.2g                 |
+| **Protein**              | 16.7g           | 2.8g                |
+
 ## Remarks and references
 
 References:
