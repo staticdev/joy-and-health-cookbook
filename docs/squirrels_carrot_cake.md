@@ -7,7 +7,7 @@
 - 4 eggs
 - 2 and 1/2 cups of flour (half whole wheat, half rice/half almond)
 - 1/2 cup of erythritol
-- 1/2 cup of brown sugar - optional
+- 1/2 cup of brown sugar
 - 1 tbsp of baking powder
 - Ghee / clarified butter
 - Optional - brigadeiro
