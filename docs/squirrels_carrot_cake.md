@@ -14,7 +14,7 @@
 
 ## Instructions
 
-1. Get eggs to ambient temperature. 
+1. Get eggs and other ingredients from the fridge to ambient temperature (at least 30 minutes before). 
 1. Grate the carrots with peel!
 1. Beat in a blender or a mixer the oil, eggs and carrots. Then add erythritol, sugar, and flour.
 1. Preheat the oven for 10 minutes at 180 °C.
