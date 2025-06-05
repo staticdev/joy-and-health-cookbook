@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 3 medium sized whole organic carrots with peel
+- 3 medium sized whole organic carrots with peel (360g) 
 - 1/2 cup of coconut oil
 - 4 eggs
 - 2 and 1/2 cups of flour (half whole wheat, half rice/half almond)
