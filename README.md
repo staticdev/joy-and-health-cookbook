@@ -6,6 +6,7 @@ Open-source recipes:
 - [Brazilian's pão de queijo](docs/pao_de_queijo.md)
 - [Chococonut cake](docs/chococonut_cake.md)
 - [Gorgonzola-Pear Risotto](docs/gorgonzola_pear_risotto.md)
+- [Guinness cake](docs/guinness_cake.md)
 - [Keto tortilla](docs/keto_tortilla.md)
 - [Lentil burguer](docs/lentil_burguer.md)
 - [Squirrel's carrot cake](docs/squirrels_carrot_cake.md)
