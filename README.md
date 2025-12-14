@@ -9,6 +9,7 @@ Open-source recipes:
 - [Guinness cake](docs/guinness_cake.md)
 - [Keto tortilla](docs/keto_tortilla.md)
 - [Lentil burguer](docs/lentil_burguer.md)
+- [Pickled onions](docs/pickled_onions.md)
 - [Squirrel's carrot cake](docs/squirrels_carrot_cake.md)
 - [Taco toppings](docs/taco_toppings.md)
 - [Tiramisu](docs/tiramisu.md)
